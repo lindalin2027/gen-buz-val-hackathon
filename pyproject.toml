@@ -8,4 +8,9 @@ dependencies = [
     "pandas",
     "numpy",
     "openpyxl",
+    "scikit-learn>=1.8",
+    "lightgbm",
+    "matplotlib",
+    "seaborn",
+    "ipykernel",
 ]
